@@ -12,3 +12,10 @@
 **굵게 쓰기**
 
 **[링크] (http://naver.com "네이버").**
+</br>
+[링크1][1] 과 [링크2][2].
+</br>
+[1]: http://www.naver.com "네이버"
+</br>
+
+[2]: http://www.google.com "구글“
